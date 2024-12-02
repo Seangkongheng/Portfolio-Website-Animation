@@ -1,0 +1,29 @@
+.project-container-content{
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+.project-list-card{
+    width: 400px;
+    height: auto;
+    
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+}
+.project-list-card-image{
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+}
+.project-list-card-image img{
+    width: 100%;
+    object-fit:cover;
+    height: 100%;
+}
+.project-container-list{
+    display: flex;
+    gap: 1.2rem;
+}
+.project-list-card-description{
+    width: 100%;
+    padding: 0px 40px;
+}

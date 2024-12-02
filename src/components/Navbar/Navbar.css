@@ -1,0 +1,22 @@
+
+
+.nav-item {
+    color: white;
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+   align-content: center;
+}
+.nav-brand h1{
+    font-size: 15px;
+}
+.nav-list-item ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    gap: 1.2rem;
+}
+.nav-list-item ul li{
+    font-size: 12px;
+}

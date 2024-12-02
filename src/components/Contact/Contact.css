@@ -1,0 +1,28 @@
+.contact-container-content{
+    width: 100%;
+    height: auto;
+    padding: 50px;
+    background-color: black;
+}
+.contact-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+}
+.contact-form {
+    background-color: white;
+    width: 600px;
+    height: auto;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.contact-description{
+    color: white;
+    text-align: center;
+}
+.contact-description h1{
+    font-size: 80px;
+    text-align: center;
+}
